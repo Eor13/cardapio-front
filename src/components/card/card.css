@@ -1,0 +1,36 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.787);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.496);
+    width: 250px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+
+}
+.card h2{
+    margin: 10px;
+}
+.card img{
+    border-radius: 5px;
+    width: 230px;
+    height: 150px;
+}
+.card div{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+.card button{
+    position: inherit;
+    background-color: transparent;
+    color: red;
+    border: none;
+}
+
+.card .id{
+    display: none;
+}
