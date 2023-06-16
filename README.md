@@ -7,6 +7,7 @@ A aplicação foi desenvolvida usando React, Typescript e React Query, e mesma c
 Inicialmente a aplicação foi espelhada no projeto de <a href="https://github.com/Fernanda-Kipper/frontend-cardapio-digital">Fernanda Kipper</a>.
 
 <video src ="./.github/cardapio.mp4" alt="Imagem da tela inicial do projeto." width="400" controls  muted></video>
+
 <span style="font-size:12px">OBS: Dados mostrados no vídeos foram armazenado em Banco de Dados Local.</span>
 </div>
 
