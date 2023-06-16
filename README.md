@@ -6,7 +6,8 @@ A aplicação foi desenvolvida usando React, Typescript e React Query, e mesma c
 
 Inicialmente a aplicação foi espelhada no projeto de <a href="https://github.com/Fernanda-Kipper/frontend-cardapio-digital">Fernanda Kipper</a>.
 
-<img src ="" alt="Imagem da tela inicial do projeto.">
+<video src ="./.github/cardapio.mp4" alt="Imagem da tela inicial do projeto." width="400" controls  muted></video>
+<span style="font-size:12px">OBS: Dados mostrados no vídeos foram armazenado em Banco de Dados Local.</span>
 </div>
 
 
@@ -45,11 +46,6 @@ Inicialmente a aplicação foi espelhada no projeto de <a href="https://github.c
             <li>Atribuição via Desestruturação de Itens</li>
         </ul>
     </li>
-    <li>CSS
-        <ul>
-            <!-- <li>Utilização de <strong style="color:green;">Styled Components através do React</strong> para estilização das páginas</li> -->
-        </ul>
-    </li>
     <li>Libs e Ferramentas
         <ul>
             <li>React Query - Poderoso gerenciamento de estado assíncrono para TS/JS, React </li>
@@ -63,7 +59,7 @@ Inicialmente a aplicação foi espelhada no projeto de <a href="https://github.c
 Primeiro, você deve clonar o projeto na sua máquina, para isso você pode colar o seguinte comando em seu terminal
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/frontend-cardapio.git
+git clone https://github.com/Eor13/cardapio-front.git
 cd frontend-cardapio
 ```
 
@@ -92,4 +88,4 @@ Isso irá gerar uma versão otimizada da aplicação na pasta `dist`.
 
 Para realizar a integração com o Backend, você pode clonar o projeto e rodar localmente.
 
-👉 [Link do repositório](https://github.com/Fernanda-Kipper/backend-c)
+👉 [Link do repositório](https://github.com/Eor13/cardapio-back)
